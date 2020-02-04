@@ -165,15 +165,3 @@ def align():
                 print a1[::-1]
                 print mid[::-1]
                 print b1[::-1]
-                    
-                        
-                
-                
-                
-                    
-
-                                            
-                            
-                        
-                        
-                
